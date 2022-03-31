@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=MaterialGateway
+comment1.params=
+comment1.target=MaterialGateway()
+comment10.params=
+comment10.target=void\ beende()
+comment10.text=\n\ Diese\ Methode\ beendet\ die\ Verbindung\ zur\ Datenbank.\n
+comment2.params=artikelbezeichnung\ zustand\ vorhanden\ benoetigt\ beschreibung\ preis
+comment2.target=void\ hinzufuegen(java.lang.String,\ java.lang.String,\ int,\ int,\ java.lang.String,\ java.lang.Double)
+comment3.params=
+comment3.target=List\ holeAlle()
+comment4.params=status
+comment4.target=List\ holeMitStatus(java.lang.String)
+comment5.params=artikelbezeichnung
+comment5.target=Artikel\ hole(java.lang.String)
+comment6.params=id\ artikelbezeichnung\ zustand\ vorhanden\ benoetigt\ beschreibung\ preis
+comment6.target=void\ aktualisiere(int,\ java.lang.String,\ java.lang.String,\ int,\ int,\ java.lang.String,\ java.lang.Double)
+comment7.params=id
+comment7.target=void\ loesche(int)
+comment8.params=
+comment8.target=void\ erzeugeTabelle()
+comment9.params=
+comment9.target=void\ verbinde()
+comment9.text=\n\ Diese\ Methode\ stellt\ eine\ Verbindung\ zur\ Datenbank\ her.\n
+numComments=11
